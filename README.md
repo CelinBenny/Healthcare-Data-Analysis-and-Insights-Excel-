@@ -31,6 +31,10 @@ Tools Used
 
 - Data Visualization (Charts & Graphs)
 
+Dashboard Preview
+
+![Healthcare Dashboard](images/dashboard.png)
+
 Dataset Size
 
 - Total Records: 2,335 patients
